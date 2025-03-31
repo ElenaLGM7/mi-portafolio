@@ -13,7 +13,7 @@
 - `script.js` (si tienes) → Funcionalidad  
 
 ## 🚀 Ver en vivo  
-[🔗 Mi portafolio en GitHub Pages](https://tu-usuario.github.io/mi-portafolio/)
+[🔗 Mi portafolio en GitHub Pages](https://ElenaLGM7/mi-portafolio/edit/main/README.md)
 
 ## ✨ Sobre mí
 Soy una desarrolladora en formación apasionada por la tecnología y el diseño web.
